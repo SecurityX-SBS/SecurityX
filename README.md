@@ -151,7 +151,7 @@ SecurityX operates as a **centralized command center** that connects your Minecr
 | 🛡️ **Defense in depth** | Multiple validation layers, signed requests, and role-based access prevent abuse of the system itself. |
 
 <p align="center">
-<img width="880" height="360"src="https://github.com/SecurityX-SBS/SecurityX/blob/ab69c77e2395b9385352fbf090a6698498b2f9c8/assets/arquict2.png" />
+<img width="880" height="560"src="https://github.com/SecurityX-SBS/SecurityX/blob/ab69c77e2395b9385352fbf090a6698498b2f9c8/assets/arquict2.png" />
 </p>
 
 ### 🔄 Request Flow
