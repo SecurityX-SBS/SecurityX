@@ -3,7 +3,8 @@
 </p>
 
 <div align="center">
-### ⚡ *Moderation Intelligence for Minecraft Networks* ⚡
+
+  ### ⚡ *Moderation Intelligence for Minecraft Networks* ⚡
 
 <br>
 
