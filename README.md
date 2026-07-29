@@ -136,21 +136,9 @@ SecurityX operates as a **centralized command center** that connects your Minecr
 
 ### High-Level Flow
 
-```
-┌──────────────┐     ┌──────────────────┐     ┌──────────────┐
-│  🎮 Players   │────►│  🧩 Plugin       │────►│  🛡️ SecurityX  │
-│  (in-game)    │     │  (on your server)│     │  (backend)     │
-└──────────────┘     └──────────────────┘     └──────┬───────┘
-      │                                               │
-      │ ① Report a cheater                            │
-      │ ② Say something suspicious                    │
-      │                                               │
-      ▼                                               ▼
-┌──────────────┐                              ┌──────────────┐
-│  💬 Discord   │◄─────────────────────────────│  👥 Staff     │
-│  (notified)   │                              │  (dashboard)  │
-└──────────────┘                              └──────────────┘
-```
+<p align="center">
+<img width="220" height="360"src="https://github.com/SecurityX-SBS/SecurityX/blob/21076ac9cbaba3652377e795d4e7931423f1d2d7/assets/arquict1.png" />
+</p>
 
 ### What Happens When a Player Cheats
 
