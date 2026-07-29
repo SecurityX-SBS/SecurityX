@@ -30,21 +30,6 @@
 | 💬 **Discord** | [discord.securityx.sbs](https://discord.securityx.sbs) |
 | 📊 **Status** | [status.securityx.sbs](https://status.securityx.sbs) |
 
-</div>
-
-<br>
-
-```
-╔══════════════════════════════════════════════════════╗
-║     Built for scale. Designed for teams.             ║
-║     Powered by intelligence.                         ║
-╚══════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<br>
-
 ---
 
 ## 📋 Table of Contents
