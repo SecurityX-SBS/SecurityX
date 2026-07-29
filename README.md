@@ -186,7 +186,6 @@ SecurityX operates as a **centralized command center** that connects your Minecr
 | 🔒 **Secrets** | No hardcoded secrets in codebase — all configuration through environment |
 
 ---
----
 
 ## 📋 Moderation Workflow
 
