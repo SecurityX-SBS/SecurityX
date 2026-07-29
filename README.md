@@ -150,20 +150,9 @@ SecurityX operates as a **centralized command center** that connects your Minecr
 | 🧩 **Decoupled** | The plugin, backend, and dashboard are independent — a failure in one doesn't bring down the rest. |
 | 🛡️ **Defense in depth** | Multiple validation layers, signed requests, and role-based access prevent abuse of the system itself. |
 
-```
-                         ┌──────────────────────────┐
-                         │    🌐 External Services   │
-                         │  Discord  •  Minecraft     │
-                         └────────────┬─────────────┘
-                                      │
-              ┌───────────────────────┼───────────────────────┐
-              │                       │                       │
-              ▼                       ▼                       ▼
-     ┌───────────────┐      ┌─────────────────┐     ┌─────────────────┐
-     │   🖥️ Dashboard │◄────►│   ⚙️ Backend API │◄────►│   🗃️ Data Layer │
-     │   (Web UI)     │ signed│   (Engine)       │     │  (Persistence)  │
-     └───────────────┘      └─────────────────┘     └─────────────────┘
-```
+<p align="center">
+<img width="880" height="360"src="https://github.com/SecurityX-SBS/SecurityX/blob/ab69c77e2395b9385352fbf090a6698498b2f9c8/assets/arquict2.png" />
+</p>
 
 ### 🔄 Request Flow
 
