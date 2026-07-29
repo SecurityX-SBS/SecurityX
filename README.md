@@ -16,11 +16,12 @@
 
 <br>
 
+<br>
 > **SecurityX** is an advanced, unified moderation platform designed for Minecraft server networks.  
 > It replaces fragmented tooling with a single, intelligent command center — managing bans, reports, appeals,  
 > plugin malware scanning, staff workflows, and Discord integration in one cohesive system.
 
-<br>
+</br>
 
 <div align="center">
 
