@@ -313,17 +313,6 @@ Our goal is to detect and prevent unfair advantages — cheats, hacked clients, 
 
 <div align="center">
 
-<br>
-
-```
-  ███████  ███████  ██████  ██    ██ ██████  ██ ███████ ██   ██
-  ██      ██      ██       ██    ██ ██   ██ ██ ██       ██ ██
-  ███████ ███████ ██   ███ ██    ██ ██████  ██ ███████   ███
-       ██      ██ ██    ██ ██    ██ ██   ██ ██      ██  ██ ██
-  ███████ ███████  ██████   ██████  ██   ██ ██ ███████ ██   ██
-```
-
-<br>
 
 **SecurityX** — *Moderating Minecraft, intelligently.*
 
