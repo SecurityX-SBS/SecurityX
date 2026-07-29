@@ -2,6 +2,7 @@
 <img width="220" height="360"src="https://github.com/SecurityX-SBS/.github/blob/9557bc54321800171756de0ec7fd396d64ea8744/profile/assets/logo.png" />
 </p>
 
+<div align="center">
 ### ⚡ *Moderation Intelligence for Minecraft Networks* ⚡
 
 <br>
@@ -20,8 +21,6 @@
 > plugin malware scanning, staff workflows, and Discord integration in one cohesive system.
 
 </br>
-
-<div align="center">
 
 | 🔗 Links |  |
 |:---|---:|
